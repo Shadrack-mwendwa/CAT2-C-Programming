@@ -26,7 +26,3 @@ int main ()
  printf("Employee's email: %s\n", employee.email);
  return 0;
 }
-
-
-
-
